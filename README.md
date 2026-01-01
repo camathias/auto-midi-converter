@@ -20,7 +20,9 @@ sudo apt install ffmpeg yt-dlp python3-pip git -y
 pip install piano_transcription_inference librosa
 
 3) Baixar este projeto 
+
 git clone https://github.com/camathias/auto-midi-converter.git 
+
 cd auto-midi-converter
 
 🎹 Como Usar Entre na pasta do projeto (se já não estiver): 
