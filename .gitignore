@@ -1,0 +1,17 @@
+# Ignorar arquivos de mídia grandes
+*.mp4
+*.mp3
+*.webm
+*.mkv
+*.wav
+*.mid
+*.midi
+
+# Ignorar pastas de download do usuário
+downloads/
+ProjetosMidi/
+
+# Ignorar cache do Python e do sistema
+__pycache__/
+*.py[cod]
+.DS_Store
