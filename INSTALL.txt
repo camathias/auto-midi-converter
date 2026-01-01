@@ -1,0 +1,16 @@
+GUIA DE INSTALAÇÃO RÁPIDA - LINUX MINT 22
+=========================================
+
+1. Abra o Terminal e rode:
+   sudo apt update
+   sudo apt install ffmpeg yt-dlp python3-pip -y
+   pip install piano_transcription_inference librosa
+
+2. Baixe o projeto (se ainda não baixou):
+   git clone https://github.com/camathias/auto-midi-converter.git
+   cd auto-midi-converter
+
+3. Execute:
+   python3 auto_midi_converter.py
+
+DICA: Se tiver erro "command not found", verifique se digitou tudo certo no passo 1.
